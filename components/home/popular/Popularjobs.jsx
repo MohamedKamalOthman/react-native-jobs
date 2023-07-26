@@ -18,7 +18,6 @@ const Popularjobs = () => {
     query: "React developer",
     num_pages: 1,
   });
-  console.log(data);
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -31,22 +30,15 @@ const Popularjobs = () => {
         {isLoading ? (
           <ActivityIndicator size="large" color={COLORS.primary} />
         ) : error ? (
-          <Text>Something Went Wrong</Text>
+          <Text>Something Went Wrong {error.toString()}</Text>
         ) : (
           <FlatList
-            data={jobs}
-            keyExtractor={(item) => item.id.toString()}
+            data={data}
             horizontal
+            key_extractor={({ item }) => item.job_id}
             showsHorizontalScrollIndicator={false}
             renderItem={({ item }) => {
-              return (
-                <PopularJobCard
-                  job={item}
-                  handlePress={() => {
-                    router.push(`/job/${item.id}`);
-                  }}
-                />
-              );
+              return <PopularJobCard item={item} handlePress={() => {}} />;
             }}
           />
         )}
