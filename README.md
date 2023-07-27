@@ -18,7 +18,7 @@ https://github.com/MohamedKamalOthman/react-native-jobs/assets/76039756/13f1e7ae
 <div style="display: flex; justify-content: space-evenly;">
 <div >
 <h3><img src="https://cdn-icons-png.flaticon.com/512/888/888839.png?w=900&t=st=1690452913~exp=1690453513~hmac=dee1c1751a268837dee92867541981b02c12eb5be33c2ee2a98146fcc86aba05" width="20"/> Android</h3>
-    <img src="https://qr.expo.dev/eas-update?updateId=03e33b2b-cc40-49e7-a453-6129ad9c4f75&appScheme=exp&host=u.expo.dev" width="200" height="200" />
+    <img src="https://qr.expo.dev/eas-update?updateId=0d45429b-75d2-476c-b765-92f973d2c0ac&appScheme=exp&host=u.expo.dev" width="200" height="200" />
 </div>
 <div>
 
