@@ -22,7 +22,7 @@ https://github.com/MohamedKamalOthman/react-native-jobs/assets/76039756/13f1e7ae
 </div>
 <div>
 
-<h3><img src="https://qr.expo.dev/eas-update?updateId=0d45429b-75d2-476c-b765-92f973d2c0ac&appScheme=exp&host=u.expo.dev" width="20"/>  IOS</h3>
+<h3><img src="https://cdn-icons-png.flaticon.com/512/831/831380.png?w=900&t=st=1690452851~exp=1690453451~hmac=248320f8f5b12bcc6f957c88e069a35a28742ea57360f3ff6af8894d91b71ef1" width="20"/>  IOS</h3>
 
 <img src="https://qr.expo.dev/eas-update?updateId=951f1bcc-64ef-4303-a9d8-302eb792ab43&appScheme=exp&host=u.expo.dev" width="200" height="200" />
 
