@@ -10,7 +10,7 @@ The Jobs Finder App is a mobile application built using Expo Router and React Na
 
 ## 📱 Video
 
-<video src="SearchJobappdemo.mkv" controls title="Title"></video>
+[Title](SearchJobappdemo.mov)
 
 ## 🌟 Scan the QR Code and Download the app
 
